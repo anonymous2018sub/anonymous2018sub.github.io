@@ -6,7 +6,7 @@
 
 ### Our Primary CVE DataSet
 
-CVE ID|Program Name|Version|Year|Vulnerability Type
+Vulnerability(CVE ID)|Program Name|Version|Year|Vulnerability Type
 ----------|------------|-------|----|------------------
 2001-0144|sshd|1.2.31|2001|Integer Overflow
 2001-0550|wu-ftpd|2.6.0|2001|Invalid Free
