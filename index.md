@@ -1,6 +1,6 @@
 ## Anonymous 2018 Submission
 
-### Special Case
+### Sample Case
 
 [CVE-2004-2167](CVE-2004-2167/README.md)
 
