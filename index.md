@@ -2,7 +2,7 @@
 
 ### Special Case
 
-[CVE-2004-2167](CVE-2004-2167.md)
+[CVE-2004-2167](CVE-2004-2167/README.md)
 
 ### Our DataSet
 
