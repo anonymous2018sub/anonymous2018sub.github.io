@@ -1,1 +1,7 @@
+# Site settings
+title: Anonymous 2018 Submission
+description: Anonymous 2018 Submission
+show_downloads: false
+
+
 theme: jekyll-theme-cayman
