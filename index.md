@@ -1,4 +1,4 @@
-## Anonymous 2018 Submission
+## Anonymous Submission
 
 ### Sample Case
 
