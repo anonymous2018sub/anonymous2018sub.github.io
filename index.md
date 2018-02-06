@@ -179,7 +179,7 @@ Vulnerability (CVE ID)|Program Name|Version|Year|Vulnerability Type
 2014-9295|Ntpd|4.2.6|2014|BSS/Data Overflow
 2015-0235|glibc|2.2|2015|Heap Overflow
 2015-0252|Apache Xerces-C XML Parser|< 3.1.2|2015|Heap Overflow
-2015-1265|Google Chrome|<= 43.0|2015|Integer Overflow
+2015-1265|Chromium|<= 43.0|2015|Integer Overflow
 2015-3205|Libmimedir VCF|0.5.1|2015|Stack Overflow
 2015-3890|openlitespeed|1.3.9|2015|Use After Free
 2015-5895|SQLite3|3.8.6|2015|Stack Overflow
